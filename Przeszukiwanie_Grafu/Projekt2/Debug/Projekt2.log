@@ -1,0 +1,9 @@
+﻿  Projekt2.cpp
+D:\studia\1 Rok\TP\Projekt2\Projekt2\Projekt2.cpp(30,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\studia\1 Rok\TP\Projekt2\Projekt2\Projekt2.cpp(42,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\studia\1 Rok\TP\Projekt2\Projekt2\Projekt2.cpp(45,22): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\studia\1 Rok\TP\Projekt2\Projekt2\Projekt2.cpp(83,22): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\studia\1 Rok\TP\Projekt2\Projekt2\Projekt2.cpp(142,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\studia\1 Rok\TP\Projekt2\Projekt2\Projekt2.cpp(172,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\studia\1 Rok\TP\Projekt2\Projekt2\Projekt2.cpp(174,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  Projekt2.vcxproj -> D:\studia\1 Rok\TP\Projekt2\Debug\Projekt2.exe
